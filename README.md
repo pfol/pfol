@@ -1,1 +1,1 @@
-I use Vim
+Vim is love, Vim is life.
